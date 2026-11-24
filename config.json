@@ -1,9 +1,9 @@
 {
-  "serverName": "Fill server name here",
-  "serverIp": "example.com",
-  "bedrockPort": 19132,
+  "serverName": "JHAPALISH MC",
+  "serverIp": "play.jhapalishmc.fun",
+  "bedrockPort": SOON,
   "bedrockPlayersCanJoin": true, 
-  "discordLink": "https://discord.gg/S763GafZPR",
+  "discordLink": "SOON",
   "logoPath": "logo.jpg",
   "defaultColour": "red",
   "_defaultColourHelp": "Choose red, blue, yellow, purple, white, pink, or orange."
